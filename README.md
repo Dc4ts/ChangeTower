@@ -17,18 +17,16 @@ ChangeTower -h
 
 This will display help for the tool. Here are all the switches it supports.
 
-  
+
 ## Contributing
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See [contributing.md](https://github.com/Dc4ts/ChangeTower/blob/main/contributing.md) for ways to get started.
 
-Please adhere to this project's `code of conduct`.
+Please adhere to this project's [code of conduct](https://github.com/Dc4ts/ChangeTower/blob/main/CODE_OF_CONDUCT.md).
 
-  
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-  
