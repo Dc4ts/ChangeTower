@@ -3,7 +3,7 @@ ChangeTower is intended to help you watch changes in webpages and get notified o
 </br>
 This tools is good to know the web pages are update something or not to work on the new site before others
 </br>
-[![MIT License](https://img.shields.io/github/license/dc4ts/ChangeTower?color=blue)](https://github.com/Dc4ts/ChangeTower/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/github/license/Dc4ts/ChangeTower?color=blue)](https://github.com/Dc4ts/ChangeTower/blob/main/LICENSE)
 ![top language](https://img.shields.io/github/languages/top/dc4ts/ChangeTower?color=%23000000)
 [![GitHub issues](https://img.shields.io/github/issues/dc4ts/ChangeTower)](https://github.com/Dc4ts/ChangeTower/issues)
 ## Installation Instructions
