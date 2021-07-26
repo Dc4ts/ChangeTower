@@ -25,16 +25,16 @@ This will display help for the tool. Here are all the switches it supports.
 ```
 Usage of ./ChangeTower:
 
-	-s 
-        silent mode (no banner if you want to parse final result to other tools)
-	-u 
-        example of usage (how to use ChangeTower)
-	-d 
-        dont log the data (logged data )
-	-w 
-        without color (if your terminal cant print the colors)
-	-l 
-        return links without any tag (dont effect in log file)
+	-s (default false)
+        	silent mode (no banner if you want to parse final result to other tools)
+	-u (default false)
+        	example of usage (how to use ChangeTower)
+	-d (default false)
+        	dont log the data (logged data )
+	-w (default false)
+        	without color (if your terminal cant print the colors)
+	-l (default false)
+        	return links without any tag (dont effect in log file)
 ```
 
 + you can set cronjob for this tools too
