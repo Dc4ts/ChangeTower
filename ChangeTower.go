@@ -125,7 +125,7 @@ func main(){
 			day := now.Day()
 			hour := now.Hour()
 			min := now.Minute()
-			name := fmt.Sprintf("logs/%d-%d-%d-%d-%d.md",year,month,day,hour,min)
+			name := fmt.Sprintf("%d-%d-%d-%d-%d.md",year,month,day,hour,min)
 			file, err := os.OpenFile(name, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0666)
 			if err != nil {
 				log.Fatal(err)
