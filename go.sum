@@ -1,0 +1,6 @@
+github.com/boltdb/bolt v1.3.1 h1:JQmyP4ZBrce+ZQu0dY660FMfatumYDLun9hBCUVIkF4=
+github.com/boltdb/bolt v1.3.1/go.mod h1:clJnj/oiGkjum5o1McbSZDSLxVThjynRyGBgiAx27Ps=
+github.com/rapidloop/skv v0.0.0-20180909015525-9def2caac4cc h1:eXQoy66wUI9meNnIdKYJ+EV/Tq3LvXeUe95AB2dPk8g=
+github.com/rapidloop/skv v0.0.0-20180909015525-9def2caac4cc/go.mod h1:V5hvlcTzUJ3MOo0fEolWR25CZBBsb7q3wWVAmBYwr54=
+golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c h1:F1jZWGFhYfh0Ci55sIpILtKKK8p3i2/krTr0H1rg74I=
+golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
