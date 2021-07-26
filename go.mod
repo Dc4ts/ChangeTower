@@ -1,4 +1,4 @@
-module change
+module github.com/dc4ts/ChangeTower
 
 go 1.16
 
