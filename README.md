@@ -12,6 +12,7 @@ ChangeTower requires go1.16+ to install successfully. Run the following command 
 ```sh
 go get -v github.com/Dc4ts/ChangeTower
 ```
+If you havent got Go in your OS you can use pre-build version by going to [release](https://github.com/Dc4ts/ChangeTower/releases)
 ## Usage/Help
 
 ```sh
