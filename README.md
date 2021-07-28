@@ -47,5 +47,14 @@ See [contributing.md](https://github.com/Dc4ts/ChangeTower/blob/main/contributin
 
 Please adhere to this project's [code of conduct](https://github.com/Dc4ts/ChangeTower/blob/main/CODE_OF_CONDUCT.md).
 
+## Thanks from :
++ [voorivex](https://github.com/Voorivex)
++ [RM.Prog](https://github.com/rahamoosavi1378)
++ [kianooshaz](https://github.com/kianooshaz)
++ [mhshahin](https://github.com/mhshahin)
++ [Ğąme Ǿver!](https://github.com/GameO7er)
++ [AmirrezaKN](https://github.com/AmirrezaKN)
++ [sina safari](https://github.com/sina-devel)
++ [Sina Gh](https://github.com/sina-ghaderi)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
