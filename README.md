@@ -17,24 +17,6 @@ go get -v github.com/Dc4ts/ChangeTower
 ```
 If you haven't got Go in your OS you can use the pre-build version by going to [release](https://github.com/Dc4ts/ChangeTower/releases)
 
-## Usage/Help
-<details>
-<summary>👉 ChangeTower help menu 👈</summary><br>
-<pre>
-Usage of ./ChangeTower:
-  -s (default false)
-    silent mode (no banner if you want to parse final result to other tools)
-  -u (default false)
-    example of usage (how to use ChangeTower)
-  -d (default false)
-    dont log the data (logged data)
-  -w (default false)
-    without color (if your terminal cant print the colors)
-  -l (default false)
-    return links without any tag (dont effect in log file)
-</pre>
-</details>
-
 ## Example commands
 
 + Print banner without color if your OS can't print the ASCII colors.
