@@ -70,4 +70,4 @@ Please adhere to this project's [code of conduct](https://github.com/Dc4ts/Chang
 
 ## License
 
-ChangeTower is made with ♥️ by [Osb0rn3](https://t.me/BotFather) & [Alins_ir](https://t.me/alins_ir) and it is released under the [MIT license](https://choosealicense.com/licenses/mit/)
+ChangeTower is made with ♥️ by [Osb0rn3](https://t.me/Osb0rn3) & [Alins_ir](https://t.me/alins_ir) and it is released under the [MIT license](https://choosealicense.com/licenses/mit/)
