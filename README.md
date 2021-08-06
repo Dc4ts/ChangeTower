@@ -19,6 +19,12 @@ If you haven't got Go in your OS you can use the pre-build version by going to [
 
 ## Example commands
 
+
++ To see help.
+```sh
+./ChangeTower -h
+```
+
 + Print banner without color if your OS can't print the ASCII colors.
 ```sh
 cat links.txt | ./ChangeTower -w
